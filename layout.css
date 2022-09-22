@@ -40,8 +40,10 @@
 .heading-kr-28 { font-family: 'Pretendard'; font-size: 28px; --font-size: 28px; margin: 0; line-height: 1.25; font-weight: 600; }
 
 @media (max-width: 768px) {
-.body-kr-16 { font-size: calc(--font-size*0.9) }
-.body-kr-20 { font-size: calc(--font-size*0.9) }
+.body-kr-16 { font-size: calc(var(--font-size)*0.9) }
+.body-kr-20 { font-size: calc(var(--font-size)*0.9) }
+.heading-kr-24 { font-size: calc(var(--font-size)*0.9) }
+.heading-kr-28 { font-size: calc(var(--font-size)*0.9) }
 }
 
 .pret-300 { font-family: 'Pretendard'; font-weight: 300; font-style: normal; }
