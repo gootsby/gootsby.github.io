@@ -39,6 +39,8 @@
 .heading-kr-24 { font-family: 'Pretendard'; font-size: 24px; --font-size: 24px; margin: 0; line-height: 1.25; font-weight: 600; }
 .heading-kr-28 { font-family: 'Pretendard'; font-size: 28px; --font-size: 28px; margin: 0; line-height: 1.25; font-weight: 600; }
 
+.display-en-48 { font-family: 'Forma-djf-deck'; font-size: 48px; --font-size: 48px; font-weight: 800; }
+
 @media (max-width: 768px) {
 .body-kr-16 { font-size: calc(var(--font-size)*0.9) }
 .body-kr-20 { font-size: calc(var(--font-size)*0.9) }
