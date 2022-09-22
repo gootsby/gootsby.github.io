@@ -33,6 +33,17 @@
 
 /* 타이포 */
 
+.body-kr-16 { font-family: 'Pretendard'; font-size: 16px; --font-size: 16px; margin: 0; line-height: 1.5; }
+.body-kr-20 { font-family: 'Pretendard'; font-size: 20px; --font-size: 20px; margin: 0; line-height: 1.5; }
+
+.heading-kr-24 { font-family: 'Pretendard'; font-size: 24px; --font-size: 24px; margin: 0; line-height: 1.25; }
+.heading-kr-28 { font-family: 'Pretendard'; font-size: 28px; --font-size: 28px; margin: 0; line-height: 1.25; }
+
+@media (max-width: 768px) {
+.body-kr-16 { font-size: calc(--font-size*0.9) }
+.body-kr-20 { font-size: calc(--font-size*0.9) }
+}
+
 .pret-300 { font-family: 'Pretendard'; font-weight: 300; font-style: normal; }
 .pret-400 { font-family: 'Pretendard'; font-weight: 400; font-style: normal; }
 .pret-500 { font-family: 'Pretendard'; font-weight: 500; font-style: normal; }
