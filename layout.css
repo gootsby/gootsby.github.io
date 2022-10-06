@@ -33,7 +33,11 @@
 
 /* 타이포 */
 
+.body-kr-12 { font-family: 'Pretendard'; font-size: 12px; --font-size: 12px; margin: 0; line-height: 1.5; }
+.body-kr-14 { font-family: 'Pretendard'; font-size: 14px; --font-size: 14px; margin: 0; line-height: 1.5; }
+.body-kr-15 { font-family: 'Pretendard'; font-size: 15px; --font-size: 15px; margin: 0; line-height: 1.5; }
 .body-kr-16 { font-family: 'Pretendard'; font-size: 16px; --font-size: 16px; margin: 0; line-height: 1.5; }
+.body-kr-18 { font-family: 'Pretendard'; font-size: 18px; --font-size: 18px; margin: 0; line-height: 1.5; }
 .body-kr-20 { font-family: 'Pretendard'; font-size: 20px; --font-size: 20px; margin: 0; line-height: 1.5; }
 
 .heading-kr-24 { font-family: 'Pretendard'; font-size: 24px; --font-size: 24px; margin: 0; line-height: 1.25; font-weight: 600; }
@@ -44,10 +48,8 @@
 .display-en-48 { font-family: 'forma-djr-deck'; font-size: 48px; --font-size: 48px; font-weight: 800; }
 
 @media (max-width: 768px) {
-.body-kr-16 { font-size: calc(var(--font-size)*0.9) }
-.body-kr-20 { font-size: calc(var(--font-size)*0.9) }
-.heading-kr-24 { font-size: calc(var(--font-size)*0.9) }
-.heading-kr-28 { font-size: calc(var(--font-size)*0.9) }
+.body-kr-12, .body-kr-14, .body-kr-15, .body-kr-16, .body-kr-18, .body-kr-20, .heading-kr-24, .heading-kr-28 { font-size: calc(var(--font-size)*0.9); }
+.display-en-32, .display-en-40, .display-en-48 { font-size: calc(var(--font-size)*0.8); }
 }
 
 .pret-300 { font-family: 'Pretendard'; font-weight: 300; font-style: normal; }
