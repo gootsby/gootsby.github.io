@@ -297,6 +297,9 @@
 .pr-95 { padding-right: calc(var(--padding-right-base) + 95px); --padding-right: calc(var(--padding-right-base) + 95px); }
 .pr-100 { padding-right: calc(var(--padding-right-base) + 100px); --padding-right: calc(var(--padding-right-base) + 100px); }
 
+.padding-all-15 { padding: 15px; }
+.padding-all-30 { padding: 30px; }
+
 @media (max-width: 991px) {
 .mt-half { margin-top: calc(var(--margin-top)/2); }
 .mb-half { margin-bottom: calc(var(--margin-bottom)/2); }
