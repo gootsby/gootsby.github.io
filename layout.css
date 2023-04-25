@@ -46,6 +46,12 @@
 .heading-kr-28 { font-family: 'Pretendard'; font-size: 28px; --font-size: 28px; margin: 0; line-height: 1.25; font-weight: 600; }
 .heading-kr-30 { font-family: 'Pretendard'; font-size: 30px; --font-size: 30px; margin: 0; line-height: 1.25; font-weight: 600; }
 
+.heading-en-18 { font-family: 'forma-djr-deck'; font-size: 18px; --font-size: 18px; margin: 0; line-height: 1.25; font-weight: 800; }
+.heading-en-20 { font-family: 'forma-djr-deck'; font-size: 20px; --font-size: 20px; margin: 0; line-height: 1.25; font-weight: 800; }
+.heading-en-24 { font-family: 'forma-djr-deck'; font-size: 24px; --font-size: 24px; margin: 0; line-height: 1.25; font-weight: 800; }
+.heading-en-28 { font-family: 'forma-djr-deck'; font-size: 28px; --font-size: 28px; margin: 0; line-height: 1.25; font-weight: 800; }
+.heading-en-30 { font-family: 'forma-djr-deck'; font-size: 30px; --font-size: 30px; margin: 0; line-height: 1.25; font-weight: 800; }
+
 .display-kr-32 { font-family: 'Pretendard'; font-size: 32px; --font-size: 32px; margin: 0; line-height: 1.25; font-weight: 600; }
 .display-kr-40 { font-family: 'Pretendard'; font-size: 40px; --font-size: 40px; margin: 0; line-height: 1.25; font-weight: 600; }
 .display-kr-48 { font-family: 'Pretendard'; font-size: 48px; --font-size: 48px; margin: 0; line-height: 1.25; font-weight: 600; }
